@@ -49,6 +49,15 @@ the developer’s Sun-Panel data nodes, cache or settings; the app ID is a neutr
 independent namespace. The default placeholder `https://unifi.local` is only a
 form hint — no connection is made until you save your own host and key.
 
+## Documentation
+
+- [Installation](INSTALL.md)
+- [Features](FEATURES.md)
+- [Privacy notice](PRIVACY.md)
+- [Security notes](SECURITY.md)
+- [Changelog](CHANGELOG.md)
+- [v1.1.1 release notes](RELEASE-NOTES-v1.1.1.md)
+
 ## Security / privacy
 
 See [PRIVACY.md](PRIVACY.md) and [SECURITY.md](SECURITY.md).
